@@ -1,6 +1,6 @@
 # Tagger - Smarter Email
 
-You can find the project at [TaggerHQ](https://taggerhq.com/).
+You can find the project [here](https://tagger-fe-revert.now.sh/).
 
 ## Contributors
 [Avraham Jacobsohn](https://github.com/noreallyimfine) |  [John Morrison](https://github.com/JohnMorrisonn) | [Samuel Hepner](https://github.com/samuelhepner)
