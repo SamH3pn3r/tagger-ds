@@ -48,7 +48,7 @@ The DS API takes in a JSON object of an email, generates a tag, and spits out a 
 
 [Functions for gathering the emails](https://github.com/samuelhepner/tagger-ds/blob/master/Jay%20email%20functions/email_functions.ipynb)
 
-[Model Hyperparameter Optimization and Training](https://github.com/Lambda-School-Labs/tagger-ds/blob/sam-branch/labs_sam(3).ipynb)
+[Model Hyperparameter Optimization and Training](https://github.com/samuelhepner/tagger-ds/blob/master/Tagged_LSTM/Model_Final.ipynb)
 
 [Flask API](https://github.com/samuelhepner/tagger-ds/tree/master/API)
 
