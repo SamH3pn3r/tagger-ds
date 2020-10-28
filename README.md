@@ -46,7 +46,7 @@ The DS API takes in a JSON object of an email, generates a tag, and spits out a 
 
 ### Python Notebooks
 
-[Functions for gathering the emails](https://github.com/Lambda-School-Labs/tagger-ds/blob/master/Jay/email_functions.ipynb)
+[Functions for gathering the emails](https://github.com/samuelhepner/tagger-ds/blob/master/Jay%20email%20functions/email_functions.ipynb)
 
 [Model Hyperparameter Optimization and Training](https://github.com/Lambda-School-Labs/tagger-ds/blob/sam-branch/labs_sam(3).ipynb)
 
