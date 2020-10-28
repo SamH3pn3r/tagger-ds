@@ -26,9 +26,6 @@ More info on using badges [here](https://github.com/badges/shields)
 
 The idea of this project was to develop an email app similar to Gmail, Edison mail, Yahoo mail, etc. but with better organization to help you find emails easier. For the DS, we built an API that generates tags for all emails so they can be put into folders by the BE.
 
-
-[Tagger - Smarter Email](https://taggerhq.com/)
-
 ### Tech Stack
 
  -   Languages: JSON, Python
